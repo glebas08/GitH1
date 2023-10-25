@@ -1,1 +1,2 @@
 zadacha 2
+new STR 3
