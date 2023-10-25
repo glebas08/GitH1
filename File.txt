@@ -1,2 +1,3 @@
 zadacha 2
 new STR 3
+Добавим новую строку на GitHub
